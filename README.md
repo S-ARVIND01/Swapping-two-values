@@ -29,7 +29,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 
-![Screenshot 2023-08-11 085930](https://github.com/S-ARVIND01/Swapping-two-values/assets/118707337/e3185393-6851-4d80-9900-02061d3e753a)
+![Screenshot 2023-08-11 085930](https://github.com/S-ARVIND01/Swapping-two-values/assets/118707337/97316b9a-fe6d-44e9-83f5-41cc3f2532f0)
 
 
 ## RESULT:
